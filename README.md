@@ -39,7 +39,7 @@ novas soluções com tecnologia.
 - Compartilhar minha evolução aqui no GitHub.
 - Unir criatividade, música, empreendedorismo e tecnologia.
 
-## 🤘 Um pouco sobre o Pestana
+##  Um pouco sobre o Pestana
 
 A vida me ensinou a trabalhar duro, correr atrás dos
 meus objetivos e nunca parar de aprender.
